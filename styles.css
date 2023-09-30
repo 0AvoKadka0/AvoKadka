@@ -1,0 +1,121 @@
+body{
+    margin: 0px;
+    background-image: url(background.png);
+    height: 1080px;
+    width: 1920px;
+    position: fixed;
+
+}
+
+.Gmail{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    flex-shrink: 0;
+    top: 17px;
+    left: 14px;
+}
+
+.Tg{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    flex-shrink: 0;
+    top: 17px;
+    left: 158px;
+}
+
+.GitHub{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    flex-shrink: 0;
+    top: 17px;
+    left: 302px;
+}
+
+.I{
+    position: absolute;
+    width: 652px;
+    height: 1080px;
+    flex-shrink: 0;
+    right: 0px;
+}
+
+.logotype{
+    position: absolute;
+    width: 121px;
+    height: 150px;
+    flex-shrink: 0;
+    left: 6px;
+    top: 916px;
+}
+
+.kontakti{
+    position: absolute;
+    
+    flex-shrink: 0;
+
+    color: #FFF;
+    font-family: Changa;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    top: 5px;
+    left: 473px;
+}
+
+.OboMneRu{
+    position: absolute;
+    width: 1233px;
+    height: 281px;
+    flex-shrink: 0;
+
+    color: #FFF;
+    font-family: Changa;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    top: 156px;
+    left: 14px;
+    border: 1px;
+}
+
+.OboMneEng{
+    position: absolute;
+    width: 1229px;
+    height: 291px;
+
+    flex-shrink: 0;
+    color: #FFF;
+    font-family: Changa;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    top: 531px;
+    left: 14px;
+    border: 1px;
+}
+
+.Avo{
+    position: absolute ;
+    width: 182px;
+    height: 81px;
+    flex-shrink: 0;
+
+    color: #FFF;
+    font-family: Changa;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    top: 963px;
+    left: 148px;
+}
