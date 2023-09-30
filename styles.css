@@ -1,9 +1,16 @@
+.I{
+    position: absolute;
+    width: 652px;
+    height: 1080px;
+    flex-shrink: 0;
+    right: 0px;
+}
+
 body{
+
     margin: 0px;
     background-image: url(background.png);
-    height: 1080px;
-    width: 1920px;
-    position: absolute;
+    background-size: auto;
 
 }
 
@@ -32,14 +39,6 @@ body{
     flex-shrink: 0;
     top: 17px;
     left: 302px;
-}
-
-.I{
-    position: absolute;
-    width: 652px;
-    height: 1080px;
-    flex-shrink: 0;
-    right: 0px;
 }
 
 .logotype{
