@@ -1,4 +1,5 @@
 .Answers{
+    background-color: darkgrey;
     position: absolute;
     
     flex-shrink: 0;
