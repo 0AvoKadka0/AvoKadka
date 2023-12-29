@@ -1,3 +1,20 @@
+.Answers{
+    position: absolute;
+    
+    flex-shrink: 0;
+
+    color: #FFF;
+    font-family: Changa;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+
+    top: 5px;
+    left: 800px;
+}
+
 .I{
     position: absolute;
     width: 652px;
